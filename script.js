@@ -1,4 +1,5 @@
 
+
 const apiKey = "cb834df0e74c81de60264f562daff05c"; // Weatherstack API key
 const main = document.getElementById("main");
 const form = document.getElementById("form");
