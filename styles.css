@@ -112,3 +112,8 @@
             from { filter: brightness(1); }
             to { filter: brightness(1.5); }
         }
+@media screen and (max-width: 480px) {
+    .suggestions{
+        left: 100px;
+    }
+}
